@@ -1,0 +1,19 @@
+.nav .active .badge{
+	background-color: #b22222 !important;
+	color: ##898989 !important;
+}
+.btn-secondary{
+	background-color: #898989 !important;
+}
+.btn-secondary:hover{
+	background-color: #009dff !important;
+}
+
+.registro{
+	font-size: 15px;
+	margin-right: 5px;
+}
+
+.botao-novo{
+	margin-bottom: 35px;
+}
