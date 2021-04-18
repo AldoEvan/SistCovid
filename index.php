@@ -8,15 +8,19 @@
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
 	<link href="css/login.css" rel="stylesheet">
+
 <!--REFERENCIA PARA FAVICON-->
 
-</head>
+<link  rel = "shortcut icon"  href = "/favicon.ico"  type = "image / x-icon" > 
+<link  rel = "icon"  href = "imag/favicon/favicon.ico"  type = "image / x-icon" >
+
+
 </head>
 <body>
 	<div class="login-form">
 		<form action="autenticar.php" method="post">
 			<div class="logo">
-				<img src="img/logo1.png" alt="sistcovid">
+				<img src="imag/logo1.jpg" alt="sistcovid">
 			</div>
 			<h2 class="text-center">
 				ENTRE NO SISTEMA
@@ -30,15 +34,16 @@
 			</div>
 
 			<div class="form-group">
-				<button class="btn btn-primary btn-lg btn-block" type="submit" name="btn-login">LOGIN</button>
+				<button class="btn btn-primary btn-lg btn-block" type="
+				submit" name="btn - login">LOGIN</button>
 			</div>
 
 			<div class="clearfix">
-				<label class="float-left checkbox-inline">
-					<input type="checkbox">
+				<label class="float-left checkbox-inline"><input type="checkbox">
 					Lembrar-me
 				</label>
-				<a href="#" class="float-right">Recuperar Senha</a>	
+				<a href="#" class= "float-right" >Recuperar Senha </a>
+				
 			</div>
 		</form>
 	</div>		

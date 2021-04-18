@@ -1,6 +1,6 @@
 body{
-	color:#fff;
-	background-color:#490704;
+	color:#c6ac91;
+	background-color:#c6ac91;
 
 }
 .login-form{
@@ -13,7 +13,7 @@ body{
 	border-radius: 2px;
 	margin-bottom: 15px;
 	font-size: 15px;
-	background: #a9a9a9;
+	background: #ececec;
 	padding: 20px;
 	position: relative;
 	box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
@@ -27,13 +27,13 @@ body{
 	width:95px;
 	height:95px;
 	top: -70px;
-	box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
+	box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
 
 }
 .login-form .logo img{
 	width:100%;
 	border-radius: 50%;
-	box-shadow: 0px 2px 2px rgba(0,0,0,0.1);
+	box-shadow: 0px 2px 2px rgba(0,0,0,0.6);
 
 }
 
@@ -54,7 +54,7 @@ body{
 }
 
 .form-control, .btn{
-	border-radius: 2px;
+	border-radius: 6px;
 }
 
 .login-form .btn{
@@ -77,7 +77,7 @@ body{
 }
 
 .login-form form a{
-	color: #fff;
+	color: #dd7711;
 	text-decoration: none;
 	
 }
